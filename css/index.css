@@ -1,0 +1,29 @@
+@import url('awsm.css');
+
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+ }
+ html {
+  font-family: "Raleway", "Open Sans";  
+  color:#060606;
+ }
+ .conteiner {
+    padding: 0 15px;
+    max-width: 1170px;
+    margin: auto;
+ }
+ .title {
+    text-align: center;
+    text-transform: uppercase;
+    max-width: 700px;
+    margin: auto;
+    font-size: 36px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: Raleway;
+    line-height: normal;
+ }
